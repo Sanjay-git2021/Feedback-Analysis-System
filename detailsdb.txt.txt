@@ -1,0 +1,7 @@
+name        email                        password
+xxxx	xxxx@gmail.com	xx123
+yyyy	yyyy@gmail.com	yy123
+zzzz	zzzz@gmail.com	zz123
+aaaa	aaaa@gmail.com	aa123
+bbbb	bbbb@gmail.com	bb123
+cccc	cccc@gmail.com	cc123

@@ -1,0 +1,8 @@
+staffname  subcode   student      quest1                                                     quest2       quest3
+staff1	cs123	xxxx	Teaching Method			yes	Agree
+staff1	cs123	yyyy	Time taken to complete a chapter	yes	Netural
+staff1	cs123	zzzz	Extracuricular activities		yes	Agree
+staff1	cs123	aaaa	Time taken to complete a chapter	no	Netural
+staff1	cs123	bbbb	Extracuricular activities		yes	Agree
+staff1	cs123	cccc	Time taken to complete a chapter	no	Disagree
+
